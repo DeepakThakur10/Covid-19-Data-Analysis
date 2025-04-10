@@ -74,9 +74,5 @@ Date columns are parsed as datetime objects for time-based plotting.
 
 The tool produces a series of interactive or auto-displayed plots and statistics in the terminal and graphical windows.
 
-📌 Notes
 
-The tool is modular: each plot is a standalone function.
-
-Can be adapted to other similar datasets by changing column references or CSV path.
 
