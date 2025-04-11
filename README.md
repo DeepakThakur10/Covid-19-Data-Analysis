@@ -3,7 +3,6 @@ This Python script provides a comprehensive exploratory data analysis (EDA) of p
 The data is visualized using histograms, time series, bar charts, and correlation heatmaps.
 
 📦 Dependencies
-
 Make sure you have the following Python libraries installed:
 
 pip install pandas numpy seaborn matplotlib
