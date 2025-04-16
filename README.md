@@ -1,6 +1,6 @@
 # Covid-19-Data-Analysis
 This Python script provides a comprehensive exploratory data analysis (EDA) of provisional COVID-19 death statistics in the U.S., segmented by sex, age group, and state. 
-The data is visualized using histograms, time series, bar charts, and correlation heatmaps.
+The data is visualized using histograms, time series, bar charts, and correlation heatmap.
 
 📦 Dependencies
 Make sure you have the following Python libraries installed:
