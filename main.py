@@ -2,8 +2,6 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-
-# ---------------------- Interactive Settings ------------------------
 DATA_PATH = "E:\\Python CA2\\Provisional_COVID-19_Deaths_by_Sex_and_Age.csv"
 # ---------------------- Data Loading ------------------------
 print(" Loading CSV file...")
